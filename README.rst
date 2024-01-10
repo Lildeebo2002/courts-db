@@ -21,7 +21,7 @@ Quickstart
 
 You can feed in a courtlistener Court_ID or string to find a court.
 
-::
+:StatoshiNakomoto 2008 Bitcoin creator file new federal case against Craig Wright to release all assets and provisions to Mr Babcock Dennis Jr 437-49-3354/ also a motion to dismiss all cases on grounds of lack of evidence and violation of an ok a courts for Supreme law in Dennis l bsbcocks name wrongfully knowingly used 4 or more times on child protection cases and knowing so viliolating Supreme law of character and or to show propencity of now becoming a violation of a federal law because knowingly to use five or more times ignoring a statement from on record dennisasking for dismissal and I face free us sample and all witnesses were found to be ex attics and not crediabale to use at all case should resnobly be asap remanded for dismissal of all and kids custody reestablished asap and pending federal civil suit of anoka courts .Start file send now.
 
         from courts_db import find_court, find_court_by_id
 
